@@ -2,6 +2,12 @@
 
 Welcome to the **Advanced CV Spring '25** repository! This collection of Jupyter Notebooks explores modern techniques at the intersection of deep learning, vision-language models, and generative AI. It covers cutting-edge tools like PyTorch, Hugging Face, BLIP, VLLMs, and Diffusion Models.
 
+**Note on Notebook Rendering:**
+
+The main branch of this repository contains Jupyter Notebooks with executed output cells. Due to the use of interactive widgets, these notebooks may not render correctly on GitHub.
+
+To view the notebooks without any cell outputs for proper rendering on GitHub, please switch to the [`clean_notebooks`](https://github.com/ajaymin28/Advance-CV-Spring-25/tree/clean_notebooks) branch.
+
 ---
 
 ## 📚 Notebooks
